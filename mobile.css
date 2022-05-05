@@ -1,0 +1,80 @@
+#navbar h1{
+    display: block;
+    float: none;
+    text-align: center;
+}
+#navbar ul{
+    float: none;
+    /* list-style: none; */
+}#navbar ul li{
+    float: none;
+}
+#navbar ul li a{
+    padding: 5px;
+    border-bottom: 1px dotted grey;
+}
+#showcase .showcase-content{
+    padding-top: 70px;
+}
+#showcase .showcase-content h1{
+    font-size: 2.5rem;
+    line-height: 1.5em;
+}
+#showcase .showcase-content p{
+    font-size: 1.3rem;
+    padding-bottom: 20px;
+    line-height: 1.5em;
+}
+.info-img{
+    display: none;
+}
+.info-content{
+    float: none;
+    width: 100%;
+    max-height: 100%;
+    text-align: center;
+}
+.info-content p{
+    padding-bottom: 20px ;
+}
+.box{
+    float:none;
+    width: 100%;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+.about-info-content{
+    max-width: 100%;
+    min-height: 100%;
+    float: none;
+}
+.about-info-content h1{
+    font-size: 2rem;
+}
+.about-info-img{
+    min-height: 100%;
+    float: none;
+    width: 100%;
+}
+#review{
+    height: 100%;
+    padding-bottom: 2px;
+}
+#review h1{
+    font-size: 2rem;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+    padding-top: 50px;
+}
+.review-1, .review-2{
+    margin:10px 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.review-1, .review-2{
+    margin:10px 30px;
+    padding: 10px;
+    border-radius: 10px;
+}
